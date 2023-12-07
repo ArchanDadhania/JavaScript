@@ -12,4 +12,5 @@ accountCity = "Rajkot`"
 
 console.log(accoutId);
 
-console.table
+console.table([accountEmailId,accountPassword,accoutId,accountCity])
+
